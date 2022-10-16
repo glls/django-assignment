@@ -9,7 +9,7 @@ The assignment is to develop a containerized application using [Docker](https://
 There two type of users, an admin and a station owner.
 The station registration [3] needs privileges but everyone should view the list of stations [4] without login or registration.
 
-There could be documentation about using the REST-API, Open-API style like [Swagger](https://editor.swagger.io/) is preferred.
+There should be documentation about using the REST-API, Open-API style like [Swagger](https://editor.swagger.io/) is preferred.
 
 No Front-end is needed.
 
