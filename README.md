@@ -36,5 +36,5 @@ Provide a REST-API that includes endpoints for:
     * Search by name
     * Stations within a radius of a location
 
->The use of industry mature libraries/frameworks is preferred.
->The usage of open-source libraries is required.
+> The use of industry mature libraries/frameworks is preferred. \
+> The usage of open-source libraries is required.
